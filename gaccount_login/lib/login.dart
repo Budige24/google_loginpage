@@ -134,7 +134,7 @@ class _MyLoginState extends State<MyLogin> {
                                   width: 40.0,
                                 ),
                                 onPressed: () {
-                                  Navigator.pushNamed(context,'signUp');
+                                  Navigator.pushNamed(context,'fbl');
                                 },
                                 label: const Text(
                                   'loginWithFB',
